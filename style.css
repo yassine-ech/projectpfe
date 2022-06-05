@@ -1,0 +1,69 @@
+
+#qrcode{
+    width: 310px;
+    height: 520px;
+    background-color: #f3eff4;
+    text-align: center;
+    border-radius: 20px;
+    margin-left:120px ;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+#res{
+    display: inline-block;
+    font-size: 30px;
+    color: #111;
+    margin: 0;
+    font-family: font1;
+    font-weight: 900;
+    position: relative;
+    bottom: 50px;
+    text-transform: capitalize;
+}
+#res1{
+    font-size: 20px;
+    margin: 0;
+    color: #111;
+    font-family:font1;
+    position: relative;
+    bottom: 50px;
+}
+.banner{
+    width: 100%;
+    height: 130px;
+    background-color: #4d7de9;
+    border-radius: 20px 20px 0 0;
+    background-image: url(img/banner1.jpg);
+    background-size: cover;
+
+}
+
+.pfp{
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+  background-image: url(img/AVATAR.jpg);
+   background-size: cover;
+    border: 5px solid white;
+    position: relative;
+    bottom: 50px;
+    margin:0 auto;
+    overflow: hidden;    
+}
+
+.foot{
+    width: 100%;
+    background-color:#73ba8d ;
+    border-radius:  0 0 20px 20px;
+    margin: 0;
+    font-family: font1;
+    font-size: 12px;
+    color: white;
+    padding: 1px 0;
+
+}
+#canvas{
+    position: relative;
+    bottom: 30px;
+}
